@@ -1,0 +1,6 @@
+HERRAMIENTAS TECNOLÓGICAS
+
+Sistema operativo que utiliza: Windows
+Editor de código: Visual Studio Code
+Lenguaje de programación conocido: Java
+Herramienta que desea aprender: Python
