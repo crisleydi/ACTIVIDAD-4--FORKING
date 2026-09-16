@@ -1,0 +1,7 @@
+DATOS DEL ESTUDIANTE
+
+Nombre completo: Crisleydi
+Carrera: Ingeniería de Sistemas
+Semestre: 5to
+Materia: Actualización Tecnológica
+Paralelo: "A"
