@@ -5,3 +5,5 @@ Carrera: Ingeniería de Sistemas
 Semestre: 5to
 Materia: Actualización Tecnológica
 Paralelo: "A"
+Gestor de versiones utilizado: Git
+Plataforma de repositorios: GitHub
