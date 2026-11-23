@@ -1,9 +1,9 @@
 DATOS DEL ESTUDIANTE
 
-Nombre completo: Crisleydi
+Nombre completo: Crisleydi Libertad Lopez Quiroga
 Carrera: Ingeniería de Sistemas
 Semestre: 5to
 Materia: Actualización Tecnológica
-Paralelo: "A"
+Paralelo: SIS2420 "B"
 Gestor de versiones utilizado: Git
 Plataforma de repositorios: GitHub
